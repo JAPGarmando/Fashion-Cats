@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Fashion-Cats/static/css/main.8dd4f9ad.chunk.css",
+    "main.js": "/Fashion-Cats/static/js/main.51f0acc2.chunk.js",
+    "main.js.map": "/Fashion-Cats/static/js/main.51f0acc2.chunk.js.map",
+    "runtime-main.js": "/Fashion-Cats/static/js/runtime-main.2b13473e.js",
+    "runtime-main.js.map": "/Fashion-Cats/static/js/runtime-main.2b13473e.js.map",
+    "static/js/2.a0f84a8f.chunk.js": "/Fashion-Cats/static/js/2.a0f84a8f.chunk.js",
+    "static/js/2.a0f84a8f.chunk.js.map": "/Fashion-Cats/static/js/2.a0f84a8f.chunk.js.map",
+    "index.html": "/Fashion-Cats/index.html",
+    "precache-manifest.837abe50816fb6ac499d97ff8a7b0e3e.js": "/Fashion-Cats/precache-manifest.837abe50816fb6ac499d97ff8a7b0e3e.js",
+    "service-worker.js": "/Fashion-Cats/service-worker.js",
+    "static/css/main.8dd4f9ad.chunk.css.map": "/Fashion-Cats/static/css/main.8dd4f9ad.chunk.css.map",
+    "static/js/2.a0f84a8f.chunk.js.LICENSE.txt": "/Fashion-Cats/static/js/2.a0f84a8f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b13473e.js",
+    "static/js/2.a0f84a8f.chunk.js",
+    "static/css/main.8dd4f9ad.chunk.css",
+    "static/js/main.51f0acc2.chunk.js"
+  ]
+}
